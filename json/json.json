@@ -1,0 +1,773 @@
+[
+  {
+    "category": "前端这个圈子",
+    "item": [
+      {
+        "dt": "社区/组织",
+        "dd": [
+          {
+            "title": "W3C",
+            "url": "http://www.w3.org/",
+            "desc": "万维网联盟创建于1994年，是WEB技术领域最具权威和影响力的国际中立性技术标准机构"
+          },
+          {
+            "title": "TPAC",
+            "url": "http://www.chinaw3c.org/member-meetings.html#tpac",
+            "desc": "TPAC是W3C的年度重要技术会议之一，历届参会规模大约300-450人，参会者将在五天的时间里，共同协调未来开放Web平台的技术方向，讨论W3C的组织策略"
+          },
+          {
+            "title": "w3ctech",
+            "url": "http://w3ctech.com/",
+            "desc": "w3ctech.com成立于2009年10月，自成立以来受到了W3C等组织、公司、个人的大力支持与帮助。在普及W3C标准的基础上，交流会将集合国内前端开发者的力量，在未来2~3年的时间内形成既与国际接轨又符合中国国情的web标准体系"
+          },
+          {
+            "title": "WebReBuild",
+            "url": "http://www.webrebuild.org/",
+            "desc": "WebRebuild.ORG成立于2007年，是互联网前端业界一个交流会草根组织，旨在推动互联网前端web技术在中国的发展，致力于为同行从业者提供一个分享和交流的平台，提升从业者的影响力及技术能力储备。从2007年至今，得到W3C中国、Google中国、携程网、篱笆网、腾讯、迅雷、网易科技、中国古筝网、ELINKHOST、W3ctech、蓝色理想等企业组织、同行及会议组委志愿者的大力支持与帮助。"
+          },
+          {
+            "title": "HTML5研究小组",
+            "url": "http://www.mhtml5.com/",
+            "desc": "万维网联盟创建于1994年，HTML5研究小组是由个人和企业HTML5开发者于2011年共同发起，是中国首个HTML5推广和交流的开放组织，于2012年2月正式加入W3C"
+          },
+          {
+            "title": "阿里技术嘉年华",
+            "url": "http://adc.alibabatech.org/",
+            "desc": ""
+          },
+          {
+            "title": "京/沪JS",
+            "url": "http://jsconf.cn//",
+            "desc": ""
+          },
+          {
+            "title": "HTML5梦工场",
+            "url": "http://www.html5dw.com/",
+            "desc": "HTML5梦工场是由国内最早一批HTML5探索者和狂热拥护者发起，致力推动HTML5在中国的发展与应用"
+          },
+          {
+            "title": "无障碍联盟",
+            "url": "http://accessibilityunion.org/",
+            "desc": "信息无障碍产品联盟是在W3C、中国工业和信息化部电信研究院的支持下，由腾讯、深圳市信息无障碍研究会、阿里巴巴集团、百度、微软(中国)共同发起，IBM大中华区信息无障碍中心作为咨询单位的组织机构"
+          }
+        ]
+      },
+      {
+        "dt": "国内个人",
+        "dd": [
+          {
+            "title": "CSS森林",
+            "url": "http://www.cssforest.org/blog/",
+            "desc": ""
+          },
+          {
+            "title": "twinsen",
+            "url": "http://www.twinsenliang.net/",
+            "desc": ""
+          },
+          {
+            "title": "艾文王",
+            "url": "http://blog.ivane.me/",
+            "desc": ""
+          },
+          {
+            "title": "余果",
+            "url": "http://yuguo.us/weblog/",
+            "desc": ""
+          },
+          {
+            "title": "张鑫旭",
+            "url": "http://www.zhangxinxu.com/wordpress/",
+            "desc": ""
+          },
+          {
+            "title": "大猫",
+            "url": "http://bigc.at/",
+            "desc": ""
+          },
+          {
+            "title": "飘飘",
+            "url": "http://pufen.net/",
+            "desc": ""
+          },
+          {
+            "title": "米随随",
+            "url": "https://s5s5.me/",
+            "desc": ""
+          },
+          {
+            "title": "99css",
+            "url": "http://www.99css.com/",
+            "desc": ""
+          },
+          {
+            "title": "进步博客",
+            "url": "http://www.topcss.org/",
+            "desc": ""
+          },
+          {
+            "title": "万戈",
+            "url": "http://wange.im/",
+            "desc": ""
+          },
+          {
+            "title": "任平生",
+            "url": "http://rpsh.net/",
+            "desc": ""
+          },
+          {
+            "title": "小李刀刀",
+            "url": "http://www.ofcss.com/",
+            "desc": ""
+          },
+          {
+            "title": "元云",
+            "url": "http://www.yuanyun.me/",
+            "desc": ""
+          },
+          {
+            "title": "珍妮",
+            "url": "http://csshouse.net/",
+            "desc": ""
+          },
+          {
+            "title": "偷米饭",
+            "url": "http://tommyfan.com/blog/",
+            "desc": ""
+          },
+          {
+            "title": "丁小倪",
+            "url": "http://www.smallni.com/",
+            "desc": ""
+          },
+          {
+            "title": "玉伯",
+            "url": "https://github.com/lifesinger/lifesinger.github.com/issues?labels=blog",
+            "desc": ""
+          },
+          {
+            "title": "拔赤",
+            "url": "http://jayli.github.io/blog/",
+            "desc": ""
+          },
+          {
+            "title": "堂主",
+            "url": "http://www.osmn00.com/",
+            "desc": ""
+          },
+          {
+            "title": "怿飞",
+            "url": "http://www.planabc.net/",
+            "desc": ""
+          },
+          {
+            "title": "嗷嗷",
+            "url": "http://www.aoao.org.cn/blog/",
+            "desc": ""
+          },
+          {
+            "title": "一丝",
+            "url": "http://www.iyunlu.com/view/",
+            "desc": ""
+          },
+          {
+            "title": "勾三股四",
+            "url": "http://jiongks.name/",
+            "desc": ""
+          },
+          {
+            "title": "贺师俊",
+            "url": "http://hax.iteye.com/",
+            "desc": ""
+          },
+          {
+            "title": "张克军",
+            "url": "http://hikejun.com/blog/",
+            "desc": ""
+          },
+          {
+            "title": "糖拌西红柿",
+            "url": "http://gaowhen.com/",
+            "desc": ""
+          },
+          {
+            "title": "愚人码头",
+            "url": "http://www.css88.com/",
+            "desc": ""
+          },
+          {
+            "title": "林小志",
+            "url": "http://linxz.github.io/tianyizone/",
+            "desc": ""
+          },
+          {
+            "title": "丸子",
+            "url": "http://i.wanz.im/",
+            "desc": ""
+          },
+          {
+            "title": "崔凯",
+            "url": "http://uicss.cn/",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "dt": "国外综合",
+        "dd": [
+          {
+            "title": "CSS-Tricks",
+            "url": "http://css-tricks.com/",
+            "desc": ""
+          },
+          {
+            "title": "WebPlatform",
+            "url": "http://www.webplatform.org/",
+            "desc": ""
+          },
+          {
+            "title": "SmashingMagazine",
+            "url": "http://smashingmagazine.com",
+            "desc": "smashingmagazine是为WEB开发人员提供的一个在线杂志"
+          },
+          {
+            "title": "cssZenGarden",
+            "url": "http://www.csszengarden.com/",
+            "desc": "CSS禅意花园"
+          }
+        ]
+      },
+      {
+        "dt": "国外个人",
+        "dd": [
+          {
+            "title": "",
+            "url": "http://www.stevesouders.com/blog/",
+            "desc": "谷歌工程师Steve Souders"
+          },
+          {
+            "title": "JohnResig",
+            "url": "",
+            "desc": "jQuery作者John Resig"
+          },
+          {
+            "title": "",
+            "url": "http://ejohn.org/",
+            "desc": ""
+          },
+          {
+            "title": "NEW",
+            "url": "http://javascript.crockford.com/",
+            "desc": "JSLint 作者，《语言精粹》作者"
+          },
+          {
+            "title": "EricMeyer",
+            "url": "http://meyerweb.com/",
+            "desc": "CSS WEB标准专家"
+          },
+          {
+            "title": "NicholasZakas",
+            "url": "http://www.nczonline.net/",
+            "desc": "《高性能JavaScript》作者"
+          },
+          {
+            "title": "Addy Osmani",
+            "url": "http://addyosmani.com/",
+            "desc": "《Learning JavaScript Design Patterns 》作者"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "02.UED团队博客",
+    "item": [
+      {
+        "dt": "腾讯系",
+        "dd": [
+          {
+            "title": "腾讯TGideas",
+            "url": "http://tgideas.qq.com",
+            "desc": ""
+          },
+          {
+            "title": "腾讯ISUX",
+            "url": "http://isux.tencent.com/",
+            "desc": ""
+          },
+          {
+            "title": "腾讯CDC",
+            "url": "http://cdc.tencent.com/",
+            "desc": ""
+          },
+          {
+            "title": "alloyteam",
+            "url": "http://www.alloyteam.com/",
+            "desc": ""
+          },
+          {
+            "title": "QQ游戏GDC",
+            "url": "http://gdc.qq.com/",
+            "desc": ""
+          },
+          {
+            "title": "腾讯无线MXD",
+            "url": "http://mxd.tencent.com/",
+            "desc": ""
+          },
+          {
+            "title": "财付通TID",
+            "url": "http://tid.tenpay.com/",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "dt": "阿里系",
+        "dd": [
+          {
+            "title": "阿里中文UED",
+            "url": "http://www.aliued.cn/",
+            "desc": ""
+          },
+          {
+            "title": "阿里国际UED",
+            "url": "http://www.aliued.com/",
+            "desc": ""
+          },
+          {
+            "title": "支付宝UED",
+            "url": "http://alipay-ued.com/",
+            "desc": ""
+          },
+          {
+            "title": "淘宝UED",
+            "url": "http://ued.taobao.org/blog/",
+            "desc": ""
+          },
+          {
+            "title": "天猫UED",
+            "url": "http://ued.tmall.com/",
+            "desc": ""
+          },
+          {
+            "title": "一淘UED",
+            "url": "http://ued.tmall.com/",
+            "desc": ""
+          },
+          {
+            "title": "一淘UED",
+            "url": "http://ux.etao.com/",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "dt": "百度系",
+        "dd": [
+          {
+            "title": "百度searchUX",
+            "url": "http://ued.baidu.com/",
+            "desc": ""
+          },
+          {
+            "title": "百度FEX",
+            "url": "http://fex.baidu.com/",
+            "desc": ""
+          },
+          {
+            "title": "百度MUX",
+            "url": "http://mux.baidu.com/",
+            "desc": ""
+          },
+          {
+            "title": "百度UEO",
+            "url": "http://ueo.baidu.com/",
+            "desc": "百度搜索用户体验中心"
+          }
+        ]
+      },
+      {
+        "dt": "搜狐系",
+        "dd": [
+          {
+            "title": "搜狗UED",
+            "url": "http://ued.sogou.com/  ",
+            "desc": ""
+          },
+          {
+            "title": "搜狐MUED",
+            "url": "http://mued.sohu.com/ ",
+            "desc": ""
+          },
+          {
+            "title": "搜狐畅游UED",
+            "url": "http://vc.changyou.com/ ",
+            "desc": ""
+          },
+          {
+            "title": "搜狐焦点UED",
+            "url": "http://ued.focus.cn/wordpress/",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "dt": "新浪系",
+        "dd": [
+          {
+            "title": "新浪网UED",
+            "url": "http://ued.sina.com/ ",
+            "desc": ""
+          },
+          {
+            "title": "新浪微博UDC",
+            "url": "http://udc.weibo.com/",
+            "desc": ""
+          },
+          {
+            "title": "新浪乐居UED",
+            "url": "http://ued.leju.com/ ",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "dt": "百度系",
+        "dd": [
+          {
+            "title": "网易UEDC",
+            "url": "http://uedc.163.com/",
+            "desc": ""
+          },
+          {
+            "title": "网易游戏GUX",
+            "url": "http://gux.163.com/",
+            "desc": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "03.百宝箱",
+    "item": [
+      {
+        "dt": "综合网址",
+        "dd": [
+          {
+            "title": "Browsershot",
+            "url": "http://browsershots.org/",
+            "desc": "超多的浏览器兼容性在线测试，免去了在本机安装N多浏览器的"
+          },
+          {
+            "title": "CodePen",
+            "url": "http://codepen.io/",
+            "desc": "前端工程师必备的技术网站"
+          },
+          {
+            "title": "Css3Maker",
+            "url": "http://www.css3maker.com/",
+            "desc": "css3在线生成器"
+          },
+          {
+            "title": "HTML5中文网",
+            "url": "http://www.html5china.com/",
+            "desc": "HTML5中文网"
+          },
+          {
+            "title": "w3cplus",
+            "url": "http://www.w3cplus.com/",
+            "desc": "以探索为己任，不断活跃在行业技术最前沿，努力提供高质量前"
+          },
+          {
+            "title": "w3ctech",
+            "url": "http://w3ctech.com/",
+            "desc": "web标准化交流会"
+          },
+          {
+            "title": "W3C在线检验",
+            "url": "http://validator.w3.org/",
+            "desc": "W3C在线检验"
+          },
+          {
+            "title": "Web App Trend",
+            "url": "http://www.webapptrend.com/",
+            "desc": "关注跨平台开发以及Web App技术发展与实践"
+          },
+          {
+            "title": "Web Platform",
+            "url": "http://www.webplatform.org/",
+            "desc": "苹果、Google、微软、Facebook等巨头强势联盟，加"
+          },
+          {
+            "title": "前端开发",
+            "url": "http://www.css88.com/",
+            "desc": "专注前端开发，关注用户体验"
+          },
+          {
+            "title": "前端观察",
+            "url": "http://www.qianduan.net/",
+            "desc": "专注于网站前端设计与前端开发"
+          },
+          {
+            "title": "大前端",
+            "url": "http://www.daqianduan.com/",
+            "desc": "前端开发为主的综合性博客性媒体，将前端分析的很透彻"
+          },
+          {
+            "title": "慕课网",
+            "url": "http://www.imooc.com/",
+            "desc": "学习编程最简单的免费平台，慕课网提供了丰富的移动端开发、"
+          }
+        ]
+      },
+      {
+        "dt": "UX研究所",
+        "dd": [
+          {
+            "title": "SixUX",
+            "url": "http://sixux.com/",
+            "desc": "实录各类过场动画视频，直观的交互体验学习平台。"
+          },
+          {
+            "title": "SmashingMagazine",
+            "url": "http://www.smashingmagazine.com/",
+            "desc": "前端与用户体验为核心的杂志类知名博客"
+          },
+          {
+            "title": "THEnextweb",
+            "url": "http://thenextweb.com/",
+            "desc": "国外交互设计资讯平台"
+          },
+          {
+            "title": "User Experience",
+            "url": "http://ux.stackexchange.com/",
+            "desc": "一个免费为用户体验研究人员和专家提供问答服务的社区"
+          },
+          {
+            "title": "UX Magazine",
+            "url": "http://uxmag.com/",
+            "desc": "设计、技术、用户体验等最好最新思想的原创文章"
+          },
+          {
+            "title": "UXbooth",
+            "url": "http://www.uxbooth.com/",
+            "desc": "侧重用户体验、交互、可用性等内容"
+          },
+          {
+            "title": "UXDE",
+            "url": "http://www.uxde.net/",
+            "desc": "提供交互设计和开发的灵感、教程、资源等"
+          },
+          {
+            "title": "UX杂志",
+            "url": "http://uxmag.com/",
+            "desc": "提供持续、丰富、权威的用户体验和相关领域的信息"
+          },
+          {
+            "title": "WebPPD",
+            "url": "http://www.webppd.com/",
+            "desc": "产品原型设计，务实产品经理基本功"
+          },
+          {
+            "title": "交互设计专业委员会",
+            "url": "http://ixdc.org/",
+            "desc": "引领中国交互设计行业发展"
+          },
+          {
+            "title": "深圳体验设计专业委员会",
+            "url": "http://www.uxdc.org/",
+            "desc": "中国首个体验设计专业组织，倡导推广体验设计行业能力标准和"
+          },
+          {
+            "title": "用户体验资讯网",
+            "url": "http://uxinfo.com/",
+            "desc": "IXDC旗下资讯网，引领中国交互设计行业发展"
+          },
+          {
+            "title": "线框杂志",
+            "url": "http://wireframes.linowski.ca/",
+            "desc": "丰富的线框知识与资源，UX必备"
+          }
+        ]
+      },
+      {
+        "dt": "UX团队",
+        "dd": [
+          {
+            "title": "360UXC",
+            "url": "http://uxc.360.cn/",
+            "desc": "360UXC用户体验设计中心"
+          },
+          {
+            "title": "360奇舞团",
+            "url": "http://www.75team.com/",
+            "desc": "奇虎360公司应用开发部Web前端工程师 + 部分特约嘉宾 组成"
+          },
+          {
+            "title": "5173UED",
+            "url": "http://www.css3maker.com/",
+            "desc": "5173用户体验设计团队"
+          },
+          {
+            "title": "UCD大社区",
+            "url": "http://ucdchina.com/",
+            "desc": "以用户为中心的设计"
+          },
+          {
+            "title": "一淘体验工作平台",
+            "url": "http://ued.alimama.com/",
+            "desc": "一淘体验工作平台"
+          },
+          {
+            "title": "中视力天",
+            "url": "http://uedteam.com/",
+            "desc": "央视网、CNTV指定设计开发UED团队"
+          },
+          {
+            "title": "天猫UED",
+            "url": "http://ued.tmall.com/",
+            "desc": "天猫UED成员微博集合"
+          },
+          {
+            "title": "搜狐畅游VC",
+            "url": "http://vc.changyou.com/",
+            "desc": "畅游视觉设计中心"
+          },
+          {
+            "title": "携程UED",
+            "url": "http://ued.ctrip.com/blog/",
+            "desc": "携程网UED团队"
+          },
+          {
+            "title": "支付宝用户体验部",
+            "url": "http://ued.alipay.com/",
+            "desc": "支付宝用户体验部"
+          },
+          {
+            "title": "新浪UED",
+            "url": "http://ued.sina.com/",
+            "desc": "新浪UED"
+          },
+          {
+            "title": "有一点",
+            "url": "http://www.aliued.cn/",
+            "desc": "阿里巴巴中国站UED"
+          },
+          {
+            "title": "爱词霸UED",
+            "url": "http://ued.iciba.com/",
+            "desc": "金山爱词霸UED"
+          },
+          {
+            "title": "百度商业用户体验部",
+            "url": "http://ued.baidu.com/",
+            "desc": "百度商业产品用户体验团队，关注消费者和企业主，以体验驱动"
+          },
+          {
+            "title": "百度无线用户体验部",
+            "url": "http://mux.baidu.com/",
+            "desc": "百度无线用户体验部"
+          },
+          {
+            "title": "百度泛用户体验",
+            "url": "http://www.baiduux.com/",
+            "desc": "百度泛用户体验"
+          },
+          {
+            "title": "网易用户体验设计中心",
+            "url": "http://uedc.163.com/",
+            "desc": "网易用户体验设计中心"
+          },
+          {
+            "title": "腾讯CDC",
+            "url": "http://cdc.tencent.com/",
+            "desc": "腾讯用户研究与体验设计中心"
+          },
+          {
+            "title": "腾讯ISUX",
+            "url": "http://isux.tencent.com/",
+            "desc": "腾讯社交用户体验设计部"
+          },
+          {
+            "title": "腾讯TGideas",
+            "url": "http://tgideas.qq.com/",
+            "desc": "腾讯游戏的专业设计团队"
+          },
+          {
+            "title": "腾讯WSD",
+            "url": "腾讯WSD",
+            "desc": "腾讯移动互联网设计"
+          },
+          {
+            "title": "腾讯财付通TID",
+            "url": "http://tid.tenpay.com/",
+            "desc": "财付通设计中心"
+          },
+          {
+            "title": "迅雷CUED",
+            "url": "http://cued.xunlei.com/",
+            "desc": "迅雷CUED"
+          }
+        ]
+      },
+      {
+        "dt": "插件",
+        "dd": [
+          {
+            "title": "FireBUG",
+            "url": "https://addons.mozilla.org/zh-CN/firefox/addon/firebug/",
+            "desc": " Firebug插件集成了浏览网页的同时随手可得的丰富开发工具，你可以对任何网页的 CSS、HTML 和 JavaScript 进行实时编辑、调试和监控"
+          },
+          {
+            "title": "cssUsage",
+            "url": "https://addons.mozilla.org/zh-CN/firefox/addon/css-usage/",
+            "desc": " css-usage插件用于察看哪些CSS被用到 "
+          },
+          {
+            "title": "YSlow",
+            "url": "https://addons.mozilla.org/zh-CN/firefox/addon/yslow/         ",
+            "desc": " YSlow是Yahoo发布的一款基于FireFox的插件，用于全面分析网站性能"
+          },
+          {
+            "title": "WebDeveloper",
+            "url": "https://addons.mozilla.org/zh-CN/firefox/addon/web-developer/ ",
+            "desc": " Web Developer插件用于页面强大的元素分析，它加入了几个菜单与一条工具栏以及多种网页开发者工具"
+          },
+          {
+            "title": "HtmlValidator",
+            "url": "https://addons.mozilla.org/zh-CN/firefox/addon/html-validator/",
+            "desc": " html-validator插件用于验证网站是否遵守w3c标准，装上该插件后，可以在页面源码模式中检测你的html代码"
+          },
+          {
+            "title": "colorzilla",
+            "url": "https://addons.mozilla.org/zh-CN/firefox/addon/colorzilla/ ",
+            "desc": " colorzilla插件用于页面去色、渐变生成等"
+          },
+          {
+            "title": "httpfox",
+            "url": "https://addons.mozilla.org/ZH-cn/firefox/addon/httpfox/",
+            "desc": " httpfox插件用于HTTP分析器的扩展"
+          },
+          {
+            "title": "ChromeDevTools",
+            "url": "https://developers.google.com/chrome-developer-tools/?hl=zh-CN",
+            "desc": "chrome dev tools"
+          },
+          {
+            "title": "DEBUGGER",
+            "url": "http://www.debugbar.com/",
+            "desc": "一款IE浏览器调试工具 ：DOM inspector, Javascript debugger, HTTP headers viewer, Cookies viewer"
+          },
+          {
+            "title": "IEToolbar",
+            "url": "http://www.microsoft.com/en-us/download/details.aspx?id=18359",
+            "desc": ""
+          }
+        ]
+      }
+    ]
+  }
+]
+

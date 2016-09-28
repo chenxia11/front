@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myapp">
+<head>
+    <meta charset="UTF-8">
+    <title>前端网址导航</title>
+    <link href="css/base.css" rel="stylesheet">
+    <script src="js/angular.min.js"></script>
+    <style>
+        .wrap{width: 1000px;margin:20px auto;}
+        .section{border:1px solid #ccc;padding:0 20px 10px;margin-bottom:20px;}
+        h3{font:20px/40px arial,"微软雅黑";color:#333;border-bottom: 1px solid #ccc;padding-top: 20px;}
+        dl{border-bottom: 1px #ccc dashed;padding:14px 0 10px;}
+        dt{margin-top:4px;display: inline-block;width:140px;font:600 16px/30px arial,"宋体";background: #ddd;text-align: center;margin-right:10px;border-radius:6px;}
+        dd{display: inline-block;width:800px;margin-right:-20px;vertical-align: top;}
+        dd a{margin-right:20px;font:16px/40px arial,"宋体";color:#666;display: inline-block;}
+        .section>dl:last-child{border-bottom: none;}
+        dd a:hover{color:green;}
+        .sideNav{width:200px;}
+        .sideNav ul{position:fixed;top:100px;left:200px;}
+        .sideNav ul li{font:16px/40px arial,"微软雅黑";background:rgba(0,0,0,0.5);color:#fff;width:180px;text-align: center;}
+        .side-right button{transition:1s all;font:16px/34px arial,"微软雅黑";position:fixed;top:30px;right:350px;padding:10px 30px;color:#666;background:#fff;border:1px solid green;border-radius:10px;}
+        .side-right button:hover{background:green;color:#fff;}
+        .motal{width:100%;height:100%;background: rgba(0,0,0,0.5);position:fixed;top:0;left:0;}
+        .add{width:400px;position:absolute;left:50%;top:50%;margin-top:-195px;margin-left:-220px;background: #fff;height:330px;padding:40px 20px 20px;text-align: center}
+        .add input{font:14px/34px arial,"微软雅黑";border:1px solid green;margin-bottom:20px;width:220px;}
+        .add button{font:16px/34px arial,"微软雅黑";background: #fff;border:1px green solid;margin:0 10px;padding:0 20px;}
+        .add button:hover{background: green;color:#fff;}
+    </style>
+    <script>
+        var myapp=angular.module("myapp",[]);
+        myapp.controller("myCtrl",function ($scope,$http) {
+             $http.get("json/json.json").success(function (data) {
+                $scope.data=data;
+             });
+            $scope.motal=false;
+            $scope.add={
+                category:"",
+                item:{dt:"",dd:{title:"",url:"",desc:""}}
+            };
+            $scope.addData=function () {
+                $scope.data.push($scope.add);
+                $scope.motal=false;
+ /*               if($scope.data[$scope.add.category]){
+
+                }*/
+//                $scope.add={
+//                    category:"",
+//                    item:{dt:"",dd:{title:"",url:"",desc:""}}
+//                };
+//                if(!$scope.data[$scope.add.category]){
+//                    $scope.data.push($scope.add);
+//                }else if(!$scope.add.item[$scope.add.item.dt]){
+//
+//                    $scope.data[$scope.add.category].item.push($scope.add.category.item)
+//                }else{$scope.data[$scope.add.category].item[$scope.add.item]()}
+            }
+        });
+    </script>
+</head>
+<body ng-controller="myCtrl">
+<div class="wrap">
+    <div class="section" ng-repeat="data in data">
+        <h3>{{data.category}}</h3>
+        <dl ng-repeat="item in data.item">
+            <dt>{{item.dt}}</dt>
+            <dd><a href="{{dd.url}}" ng-repeat="dd in item.dd" target="_bank" title="{{dd.desc}}">{{dd.title}}</a></dd>
+        </dl>
+    </div>
+
+</div>
+<div class="sideNav">
+    <ul>
+        <li ng-repeat="data in data">{{data.category}}</li>
+    </ul>
+</div>
+<div class="side-right">
+    <button ng-click="motal=true">新增</button>
+</div>
+
+<div class="motal" ng-show="motal">
+    <div class="add">
+       推荐标题:<input type="text" placeholder="请输入标题" ng-model="add.category"><br/>
+       推荐类别:<input type="text" placeholder="请输入分类" ng-model="add.item.dt"><br/>
+       推荐名称:<input type="text" placeholder="请输入名称" ng-model="add.item.dd.title"><br/>
+       推荐网址:<input type="text" placeholder="请输入网址" ng-model="add.item.dd.url"><br/>
+       推荐理由:<input type="text" placeholder="请输入推荐理由" ng-model="add.item.dd.desc"><br/>
+        <button class="queding" ng-click="addData()" > 确定</button><button class="quxioa" ng-click="motal=false"> 取消</button>
+    </div>
+</div>
+
+
+</body>
+</html>

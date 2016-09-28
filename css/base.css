@@ -1,0 +1,14 @@
+@charset "utf-8";
+/*reset*/
+body,ul,li,ol,dl,dt,dd,p,h1,h2,h3,h4,h5,span,a,input,form,label,textarea,b,i{margin:0;padding:0;}
+a{text-decoration: none;}
+img{border:none;vertical-align: top;}
+a,input,textarea{border: none;outline:none;}
+textarea{resize: none;}
+i{font-style: normal;}
+li{list-style: none;}
+.clearfix:after{content: "";display: block;height: 0;clear: both;*zoom:1;}
+
+/*共用样式*/
+.fl{float: left;_display:inline;}
+.fr{float:right;_display:inline;}
